@@ -1,19 +1,17 @@
 # Bright Coffee Shop Sales Analysis
 
 ## 1. Project Overview
-
-This project focuses on analysing sales data for a coffee shop business. The aim is to answer the CEO's business questions, 
-identify sales patterns and provide insights that can support better business decisions.
+This project focuses on analysing historical sales data for a coffee shop business. It examines sales performance across products, product categories, store locations and time periods to identify trends and patterns that can provide meaningful business insights.
 
 The dataset contains 149,116 sales records covering the period from 1 January 2023 to 30 June 2023.
 
 ## 2. Project Objectives
 
 - Analyse sales performance across different product categories and products.
-- Identify sales trends by store location.
-- Understand sales performance by date and time.
-- Identify top-performing products and stores.
-- Provide insights that can assist management with business decisions.
+- Compare sales performance across store locations.
+- Examine sales trends by date, month and time of day.
+- Identify the highest and lowest revenue-generating products and categories.
+- Generate insights that can support informed business decisions.
 
 ## 3. Project Process
 The project follows the following stages:
