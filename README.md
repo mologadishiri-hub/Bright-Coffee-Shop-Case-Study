@@ -18,19 +18,20 @@ The project follows the following stages:
 
 1. **Data Acquisition:** Obtained the original Bright Coffee Shop sales dataset in CSV format.
 2. **Data Ingestion:** Uploaded the dataset into Databricks and created the project catalog, schema and raw table.
-3. **Data Validation:** Used SQL queries to check data quality, missing values and data types.
-4. **Data Analysis:** Used SQL to investigate sales performance and answer the CEO's business questions.
-5. **Data Visualisation:** Used Excel PivotTables and charts to analyse and present sales performance.
+3. **Data Validation: Used SQL queries to check data quality, missing values, invalid quantities, unit prices and data types.
+4. **Data Analysis:** Used SQL to investigate sales performance and answer key business questions.
+5. **Data Visualisation:** Used Excel PivotTables and charts to analyse sales performance and develop an interactive dashboard in Databricks.
 6. **Project Planning:** Used Miro to create project flowcharts and Excel to track project progress using a Gantt chart.
-7. **Documentation:** Organised project files and analysis outputs in GitHub.
+7. **Documentation:** Organised project files, SQL scripts, analysis outputs and supporting documents in GitHub.
 
 ## 🔍 Key Findings
-The analysis highlighted several sales patterns:
 
-- Coffee generated the highest revenue among the product categories.
-- Hell's Kitchen generated more revenue than Lower Manhattan.
-- Lower Manhattan recorded higher sales quantities, showing that higher sales volume does not always mean higher revenue.
-- Sales revenue increased towards the end of the six-month reporting period, with June recording the highest monthly revenue.
+The analysis highlighted several important sales patterns:
+- **Product Categories:** Coffee generated the highest revenue, contributing approximately 38.63% of total revenue.
+- **Store Performance:** Hell's Kitchen generated the highest revenue, outperforming Lower Manhattan.
+- **Sales Volume:** Lower Manhattan recorded the highest sales quantity, demonstrating that higher sales volume does not necessarily translate into higher revenue.
+- **Monthly Performance:** Revenue declined in February but increased consistently from March to June, with June recording the highest monthly revenue.
+- **Time-Based Performance:** Morning sales generated approximately 55.56% of total revenue, making it the strongest sales period.
 
 ## 🛠️ Tools Used
 
