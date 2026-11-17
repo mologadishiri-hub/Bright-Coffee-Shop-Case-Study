@@ -16,7 +16,7 @@ The dataset contains 149,116 sales records covering the period from 1 January 20
 ## ⚙️ Project Process
 The project follows the following stages:
 
-1. **Data Acquisition:** Obtained the original Bright Coffee Shop sales dataset in CSV format.
+1. **Data Acquisition:** Obtained the original Bright Coffee Shop sales dataset in CSV format. 
 2. **Data Ingestion:** Uploaded the dataset into Databricks and created the project catalog, schema and raw table.
 3. **Data Validation: Used SQL queries to check data quality, missing values, invalid quantities, unit prices and data types.
 4. **Data Analysis:** Used SQL to investigate sales performance and answer key business questions.
