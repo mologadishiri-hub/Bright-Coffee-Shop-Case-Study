@@ -28,7 +28,9 @@ The project follows the following stages:
 An interactive sales performance dashboard was developed and published in Databricks to present the key findings from the coffee shop sales analysis.
 
 The dashboard contains two pages:
+
 **1. Sales Overview**
+
 - Total Revenue
 - Total Transactions
 - Total Units Sold
@@ -41,6 +43,7 @@ The dashboard contains two pages:
 - Revenue by Hour
 
 **2. Product Performance**
+
 - Revenue by Product Type
 - Top 10 Products by Revenue
 - Bottom 10 Products by Revenue
