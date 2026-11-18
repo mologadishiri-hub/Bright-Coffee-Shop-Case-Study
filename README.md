@@ -52,7 +52,7 @@ The dashboard contains two pages:
 - Units Sold by Product Type
 - Units Sold by Store Location
 
-The dashboard was published in Databricks. Access is subject to the workspace's sharing permissions.
+The interactive dashboard was developed and published using Databricks. Dashboard access is governed by the workspace's sharing and permission settings.
 
 [View Published Databricks Dashboard](https://dbc-ad7e34c1-298a.cloud.databricks.com/dashboardsv3/01f1e1f46f451b01bc9ca852d165cdcc/published?o=7474646959308922)
 
