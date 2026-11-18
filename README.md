@@ -24,7 +24,7 @@ The project follows the following stages:
 6. **Project Planning:** Used Miro to create project flowcharts and Excel to track project progress using a Gantt chart.
 7. **Documentation:** Organised project files, SQL scripts, analysis outputs and supporting documents in GitHub.
 
-## ## 📊 Databricks Dashboard
+## 📊 Databricks Dashboard
 An interactive sales performance dashboard was developed and published in Databricks to present the key findings from the coffee shop sales analysis.
 
 The dashboard contains two pages:
