@@ -24,6 +24,35 @@ The project follows the following stages:
 6. **Project Planning:** Used Miro to create project flowcharts and Excel to track project progress using a Gantt chart.
 7. **Documentation:** Organised project files, SQL scripts, analysis outputs and supporting documents in GitHub.
 
+## ## 📊 Databricks Dashboard
+An interactive sales performance dashboard was developed and published in Databricks to present the key findings from the coffee shop sales analysis.
+
+The dashboard contains two pages:
+**1. Sales Overview**
+- Total Revenue
+- Total Transactions
+- Total Units Sold
+- Average Transaction Value
+- Monthly Revenue
+- Revenue by Product Category
+- Revenue by Store Location
+- Revenue by Time Period
+- Revenue by Day of Week
+- Revenue by Hour
+
+**2. Product Performance**
+- Revenue by Product Type
+- Top 10 Products by Revenue
+- Bottom 10 Products by Revenue
+- Product Volume vs Revenue
+- Product Type Revenue by Store Location
+- Units Sold by Product Type
+- Units Sold by Store Location
+
+The dashboard was published in Databricks. Access is subject to the workspace's sharing permissions.
+
+[View Published Databricks Dashboard](https://dbc-ad7e34c1-298a.cloud.databricks.com/dashboardsv3/01f1e1f46f451b01bc9ca852d165cdcc/published?o=7474646959308922)
+
 ## 🔍 Key Findings
 
 The analysis highlighted several important sales patterns:
