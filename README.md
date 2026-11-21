@@ -74,12 +74,23 @@ The analysis highlighted several important sales patterns:
 
 ## 📁 Project Files
 
-The repository contains the following folders:
+The repository contains the following project resources:
 
-- **Project Description:** Case study description, project methodology and original dataset.
-- **Project Planning:** Project architecture and Gantt chart.
-- **Data Processing:** SQL analysis script and Excel analysis workbook.
-- **Project Presentation:** Final presentation and dashboard (to be completed).
+### 1. Project Description
+- [Project Description](./Project%20Description/Bright_Coffee_Shop_Project_Description.pdf)
+- [Project Methodology](./Project%20Description/Bright_Coffee_Shop_Project_Methodology.pdf)
+- [Original Sales Dataset (CSV)](./Project%20Description/Bright_Coffee_Shop_Sales_raw.csv)
+
+### 2. Project Planning
+- [Project Flow and Processing Charts](./Project%20Planning/Bright_Coffee%20Shop_Flow_and_Processing_Charts.pdf)
+- [Project Gantt Chart](./Project%20Planning/Bright_Coffee_Shop_Project_Gantt_Chart.xlsx)
+
+### 3. Data Processing
+- [SQL Analysis Script](./Data%20Processing/Bright_Coffee_Sales_SQL-Codes.sql)
+- [Excel Sales Analysis Workbook](./Data%20Processing/Bright_Coffee_Shop_Excel_Analysis.xlsx)
+
+### 4. Project Presentation
+- [Bright Coffee Shop – Sales Performance Analysis](./Project%20Presentation/Bright%20Coffee%20Shop%20-%20Sales%20Performance%20Analysis.pptx)
 
 ## 💡 Project Outcome
 
