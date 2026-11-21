@@ -91,6 +91,7 @@ The repository contains the following project resources:
 
 ### 4. Project Presentation
 - [Bright Coffee Shop – Sales Performance Analysis](./Project%20Presentation/Bright%20Coffee%20Shop%20-%20Sales%20Performance%20Analysis.pptx)
+- [Databricks Sales Performance Dashboard (PDF)](./Project%20Presentation/Bright%20Coffee%20Shop%20-%20Sales%20Performance%20Dashboard%20-merged.pdf)
 
 ## 💡 Project Outcome
 
