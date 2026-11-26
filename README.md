@@ -65,12 +65,17 @@ The analysis highlighted several important sales patterns:
 - **Monthly Performance:** Revenue declined in February but increased consistently from March to June, with June recording the highest monthly revenue.
 - **Time-Based Performance:** Morning sales generated approximately 55.56% of total revenue, making it the strongest sales period.
 
-## 🛠️ Tools Used
+## 🛠️ Tools and Technologies Used
 
-- **Databricks SQL:** Data ingestion, validation and sales analysis.
-- **Microsoft Excel:** Sales analysis, PivotTables, charts, project scheduling and Gantt chart.
-- **Miro:** Project architecture and process flowcharts.
-- **GitHub:** Project documentation and portfolio management.
+- **Databricks:** Data ingestion, data preparation, SQL analysis and data validation.
+- **SQL:** Data querying, aggregation and business analysis.
+- **Microsoft Excel:** Data cleaning, pivot tables and sales analysis.
+- **Power Query:** Data transformation.
+- **Power BI:** Interactive dashboard development and data visualisation.
+- **Google Looker Studio (Data Studio):** Interactive dashboard development and reporting.
+- **Miro:** Project planning, workflow diagrams and Gantt chart.
+- **GitHub:** Version control, project documentation and portfolio management.
+- **Microsoft PowerPoint:** Presentation of findings and business recommendations.
 
 ## 📁 Project Files
 
@@ -96,6 +101,7 @@ The repository contains the following project resources:
 - [Databricks Dataset – CSV](Project%20Presentation/Bright_Coffee_Analysis_databricks.csv)
 - [Interactive Dashboard – Databricks](https://dbc-ad7e34c1-298a.cloud.databricks.com/dashboardsv3/01f1e1f46f451b01bc9ca852d165cdcc/published?o=7474646959308922)
 - https://datastudio.google.com/u/0/reporting/6cb6eb67-c2bf-462d-afc0-295a5fc76474/page/WoNEG
+- [Power BI Sales Performance Dashboard – PDF](Project%20Presentation/Bright_Coffee_Sales_Performance_Dashboard_PBI.pdf)
 
 ## 💡 Project Outcome
 
