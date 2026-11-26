@@ -18,7 +18,7 @@ The project follows the following stages:
 
 1. **Data Acquisition:** Obtained the original Bright Coffee Shop sales dataset in CSV format. 
 2. **Data Ingestion:** Uploaded the dataset into Databricks and created the project catalog, schema and raw table.
-3. **Data Validation: Used SQL queries to check data quality, missing values, invalid quantities, unit prices and data types.
+3. **Data Validation:** Used SQL queries to check data quality, missing values, invalid quantities, unit prices and data types.
 4. **Data Analysis:** Used SQL to investigate sales performance and answer key business questions.
 5. **Data Visualisation:** Used Excel PivotTables and charts to analyse sales performance and develop an interactive dashboard in Databricks.
 6. **Project Planning:** Used Miro to create project flowcharts and Excel to track project progress using a Gantt chart.
