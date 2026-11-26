@@ -95,6 +95,7 @@ The repository contains the following project resources:
 - [Sales Performance Dashboard – PDF](Project%20Presentation/Bright%20Coffee%20Shop%20-%20Sales%20Performance%20Dashboard.pdf)
 - [Databricks Dataset – CSV](Project%20Presentation/Bright_Coffee_Analysis_databricks.csv)
 - [Interactive Dashboard – Databricks](https://dbc-ad7e34c1-298a.cloud.databricks.com/dashboardsv3/01f1e1f46f451b01bc9ca852d165cdcc/published?o=7474646959308922)
+- https://datastudio.google.com/u/0/reporting/6cb6eb67-c2bf-462d-afc0-295a5fc76474/page/WoNEG
 
 ## 💡 Project Outcome
 
